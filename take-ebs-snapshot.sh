@@ -37,8 +37,8 @@ function take_snapshot ()
     done
 }
 
-take_snapshot vol-cecf0ba1 hoge-test       # hoge-test
-take_snapshot vol-f6e6c799 hoge-test-xvdf  # hoge-test-xvdf
-take_snapshot vol-fae3e695 hoge-001         # hoge-001
-take_snapshot vol-52898c3d hoge-002         # hoge-002
+take_snapshot vol-xxxxxxxx hoge-test       # hoge-test
+take_snapshot vol-xxxxxxxy hoge-test-xvdf  # hoge-test-xvdf
+take_snapshot vol-xxxxxxxz hoge-001         # hoge-001
+take_snapshot vol-xxxxxxxa hoge-002         # hoge-002
 
